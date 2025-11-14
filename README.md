@@ -16,6 +16,16 @@ My background in finance gives me a strong analytical perspective and helps me b
 
 ---
 
+## 🎓 Educational
+
+**Postgraduate** start in Enterprise Data Science & Analytics  (Nova IMS [2026 - one year])
+
+**Master’s** in Management Control & Performance Assessment (ISCAL [2019 - 2022])
+
+**Bachelor’s** in Management Control & Performance Assessment (ISCAL [2015 - 2018])
+
+---
+
 ## 🛠️ Technical Skills
 
 ### **Programming & Scripting**
@@ -38,7 +48,8 @@ My background in finance gives me a strong analytical perspective and helps me b
 
 ### **Consulting & Collaboration**
 - GitHub Foundations  
-- Jira & Confluence  
+- Jira
+- Confluence  
 - Google Data Analytics ✅ *([Coursera](https://www.coursera.org/account/accomplishments/professional-cert/VL6EN2M5EQLA), Nov 2023)*  
 
 ---
