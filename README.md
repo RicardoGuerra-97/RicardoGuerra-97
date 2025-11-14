@@ -1,16 +1,44 @@
-## Hi there 👋
+# 👋 Hi, I'm **Ricardo Guerra**
+### **Data Analyst | Data Engineer Aspirant**
 
-<!--
-**RicardoGuerra-97/RicardoGuerra-97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Data Analyst with a strong foundation in **accounting, financial control, and performance management**, now focused on using modern data tools to drive operational efficiency and data-driven decision-making.
 
-Here are some ideas to get you started:
+I specialize in **data visualization**, **ETL/ELT workflows**, and transforming complex datasets into meaningful, actionable insights.  
+My background in finance gives me a strong analytical perspective and helps me bridge the gap between **business understanding** and **technical execution**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌐 Connect With Me
+
+📧 **Email:** ricardopires1997@gmail.com  
+🔗 **LinkedIn:** [/ricardoguerra](https://www.linkedin.com/in/ricardo-guerra-b073b815a/)  
+🐙 **GitHub:** *You’re already here!*  
+
+---
+
+## 🛠️ Technical Skills
+
+### **Programming & Scripting**
+- SQL
+
+### **Data Transformation & Orchestration**
+- Alteryx
+
+### **Object Storage / Cloud Fundamentals**
+- Azure Fundamentals
+
+### **Data Warehouse & Lakehouse**
+- Microsoft Fabric  
+- Snowflake  
+
+### **Business Intelligence & Visualization**
+- Power BI ✅ *([Microsoft PL-300](https://www.linkedin.com/in/ricardo-guerra-b073b815a/overlay/1753443684519/single-media-viewer/?profileId=ACoAACYlezcB8jKmFxvQANUtYPCsFwt_nM4awjU), Oct 2024)*  
+- Tableau  
+- Looker Studio  
+
+### **Consulting & Collaboration**
+- GitHub Foundations  
+- Jira & Confluence  
+- Google Data Analytics ✅ *([Coursera](https://www.coursera.org/account/accomplishments/professional-cert/VL6EN2M5EQLA), Nov 2023)*  
+
+---
