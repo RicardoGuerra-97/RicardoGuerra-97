@@ -1,5 +1,5 @@
 # 👋 Hi, I'm **Ricardo Guerra**
-### **Data Analyst | Data Engineer Aspirant**
+### **Data Analyst**
 
 I'm a Data Analyst with a strong foundation in **accounting, financial control, and performance management**, now focused on using modern data tools to drive operational efficiency and data-driven decision-making.
 
