@@ -26,6 +26,13 @@ My background in finance gives me a strong analytical perspective and helps me b
 
 ---
 
+## 🌐 Language Skills
+
+**Portuguese:** Fluent  
+**English:** B2
+
+---
+
 ## 🛠️ Technical Skills
 
 ### **Programming & Scripting**
