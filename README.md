@@ -45,7 +45,7 @@ My background in finance gives me a strong analytical perspective and helps me b
 - Azure Fundamentals
 
 ### **Data Warehouse & Lakehouse**
-- Microsoft Fabric  
+- Microsoft Fabric [GitHub repo](https://github.com/RicardoGuerra-97/Microsoft-Fabric) 
 - Snowflake  
 
 ### **Business Intelligence & Visualization**
