@@ -42,7 +42,7 @@ My background in finance gives me a strong analytical perspective and helps me b
 - Alteryx
 
 ### **Data Warehouse & Lakehouse**
-- Microsoft Fabric [GitHub repo](https://github.com/RicardoGuerra-97/Microsoft-Fabric) 
+- Microsoft Fabric _([GitHub repo](https://github.com/RicardoGuerra-97/Microsoft-Fabric))_
 - Snowflake  
 
 ### **Business Intelligence & Visualization**
