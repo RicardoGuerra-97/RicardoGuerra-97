@@ -36,7 +36,7 @@ My background in finance gives me a strong analytical perspective and helps me b
 ## 🛠️ Technical Skills
 
 ### **Programming & Scripting**
-- SQL
+- SQL _([GitHub repo](https://github.com/RicardoGuerra-97/SQL-Azure-Data-))_
 
 ### **Data Transformation & Orchestration**
 - Alteryx
