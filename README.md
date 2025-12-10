@@ -45,7 +45,7 @@ My background in finance gives me a strong analytical perspective and helps me b
 - Azure Data Fundamentals ✅ *([Microsoft DP-900](https://www.linkedin.com/in/ricardo-guerra-b073b815a/overlay/1765366126898/single-media-viewer/?profileId=ACoAACYlezcB8jKmFxvQANUtYPCsFwt_nM4awjU), Dez 2025)* _([GitHub repo](https://github.com/RicardoGuerra-97/Azure-Data-Fundamentals))_
 
 ### **Data Warehouse & Lakehouse**
-- Microsoft Fabric _([GitHub repo](https://github.com/RicardoGuerra-97/Microsoft-Fabric))_
+- Microsoft Fabric ✅ *([Microsoft DP-600](https://www.linkedin.com/in/ricardo-guerra-b073b815a/overlay/1765384059970/single-media-viewer/?profileId=ACoAACYlezcB8jKmFxvQANUtYPCsFwt_nM4awjU), Dez 2025)* _([GitHub repo](https://github.com/RicardoGuerra-97/Microsoft-Fabric))_
 - Snowflake  
 
 ### **Business Intelligence & Visualization**
