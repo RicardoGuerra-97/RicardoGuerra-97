@@ -1,10 +1,13 @@
 # 👋 Hi, I'm **Ricardo Guerra**
 ### **Data Analyst**
 
-I'm a Data Analyst with a strong foundation in **accounting, financial control, and performance management**, now focused on using modern data tools to drive operational efficiency and data-driven decision-making.
+I'm a Data Analyst with a strong foundation in accounting, financial control, and performance management, now focused on using modern data tools to drive operational efficiency and data-driven decision-making.
 
-I specialize in **data visualization**, **ETL/ELT workflows**, and transforming complex datasets into meaningful, actionable insights.  
-My background in finance gives me a strong analytical perspective and helps me bridge the gap between **business understanding** and **technical execution**.
+I specialize in data visualization and transforming complex datasets into meaningful, actionable insights.  
+
+My background in finance gives me a strong analytical perspective and helps me bridge the gap between business understanding and technical execution.
+
+My focus is on optimizing internal operations and enabling data-driven decision-making across organizations. 
 
 ---
 
@@ -38,12 +41,6 @@ My background in finance gives me a strong analytical perspective and helps me b
 ### **Programming & Scripting**
 - SQL
 
-### **Data Transformation & Orchestration**
-- Alteryx
-
-### **Object Storage / Cloud Fundamentals**
-- Azure Data Fundamentals ✅ *([Microsoft DP-900](https://www.linkedin.com/in/ricardo-guerra-b073b815a/overlay/1765366126898/single-media-viewer/?profileId=ACoAACYlezcB8jKmFxvQANUtYPCsFwt_nM4awjU), Dez 2025)* _([GitHub repo](https://github.com/RicardoGuerra-97/Azure-Data-Fundamentals))_
-
 ### **Data Warehouse & Lakehouse**
 - Microsoft Fabric ✅ *([Microsoft DP-600](https://www.linkedin.com/in/ricardo-guerra-b073b815a/overlay/1765384059970/single-media-viewer/?profileId=ACoAACYlezcB8jKmFxvQANUtYPCsFwt_nM4awjU), Dez 2025)* _([GitHub repo](https://github.com/RicardoGuerra-97/Microsoft-Fabric))_
 - Snowflake  
@@ -57,6 +54,7 @@ My background in finance gives me a strong analytical perspective and helps me b
 - GitHub Foundations  
 - Jira
 - Confluence  
-- Google Data Analytics ✅ *([Coursera](https://www.coursera.org/account/accomplishments/professional-cert/VL6EN2M5EQLA), Nov 2023)*  
+- Google Data Analytics ✅ *([Coursera](https://www.coursera.org/account/accomplishments/professional-cert/VL6EN2M5EQLA), Nov 2023)*
+- Azure Data Fundamentals ✅ *([Microsoft DP-900](https://www.linkedin.com/in/ricardo-guerra-b073b815a/overlay/1765366126898/single-media-viewer/?profileId=ACoAACYlezcB8jKmFxvQANUtYPCsFwt_nM4awjU), Dez 2025)* _([GitHub repo](https://github.com/RicardoGuerra-97/Azure-Data-Fundamentals))_
 
 ---
