@@ -43,7 +43,8 @@ My focus is on optimizing internal operations and enabling data-driven decision-
 
 ### **Data Warehouse & Lakehouse**
 - Microsoft Fabric ✅ *([Microsoft DP-600](https://www.linkedin.com/in/ricardo-guerra-b073b815a/overlay/1765384059970/single-media-viewer/?profileId=ACoAACYlezcB8jKmFxvQANUtYPCsFwt_nM4awjU), Dez 2025)* _([GitHub repo](https://github.com/RicardoGuerra-97/Microsoft-Fabric))_
-- Snowflake  
+- Snowflake
+- Databricks
 
 ### **Business Intelligence & Visualization**
 - Power BI ✅ *([Microsoft PL-300](https://www.linkedin.com/in/ricardo-guerra-b073b815a/overlay/1753443684519/single-media-viewer/?profileId=ACoAACYlezcB8jKmFxvQANUtYPCsFwt_nM4awjU), Oct 2024)*  
