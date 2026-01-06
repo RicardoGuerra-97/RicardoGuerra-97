@@ -49,13 +49,13 @@ My focus is on optimizing internal operations and enabling data-driven decision-
 - Tableau _([GitHub repo](https://github.com/RicardoGuerra-97/Tableau))_
 - Looker Studio  
 
+### ***Job Skills***
+- Google Data Analytics ✅ *([Coursera](https://www.coursera.org/account/accomplishments/professional-cert/VL6EN2M5EQLA), Nov 2023)*
+- Azure Data Fundamentals ✅ *([Microsoft DP-900](https://www.linkedin.com/in/ricardo-guerra-b073b815a/overlay/1765366126898/single-media-viewer/?profileId=ACoAACYlezcB8jKmFxvQANUtYPCsFwt_nM4awjU), Dez 2025)* _([GitHub repo](https://github.com/RicardoGuerra-97/Azure-Data-Fundamentals))_
+
 ### **Consulting & Collaboration**
 - GitHub Foundations  
 - Jira
 - Confluence
-
-### ***Job Skills***
-- Google Data Analytics ✅ *([Coursera](https://www.coursera.org/account/accomplishments/professional-cert/VL6EN2M5EQLA), Nov 2023)*
-- Azure Data Fundamentals ✅ *([Microsoft DP-900](https://www.linkedin.com/in/ricardo-guerra-b073b815a/overlay/1765366126898/single-media-viewer/?profileId=ACoAACYlezcB8jKmFxvQANUtYPCsFwt_nM4awjU), Dez 2025)* _([GitHub repo](https://github.com/RicardoGuerra-97/Azure-Data-Fundamentals))_
 
 ---
