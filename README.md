@@ -42,6 +42,7 @@ My focus is on optimizing internal operations and enabling data-driven decision-
 - SQL _([GitHub repo](https://github.com/RicardoGuerra-97/SQL))_
 
 ### **Data Warehouse & Lakehouse**
+- Databrikcs _([GitHub repo](https://github.com/RicardoGuerra-97/Databricks))_
 - Microsoft Fabric ✅ *([Microsoft DP-600](https://www.linkedin.com/in/ricardo-guerra-b073b815a/overlay/1765384059970/single-media-viewer/?profileId=ACoAACYlezcB8jKmFxvQANUtYPCsFwt_nM4awjU), Dez 2025)* _([GitHub repo](https://github.com/RicardoGuerra-97/Microsoft-Fabric))_
 - Azure Data Fundamentals ✅ *([Microsoft DP-900](https://www.linkedin.com/in/ricardo-guerra-b073b815a/overlay/1765366126898/single-media-viewer/?profileId=ACoAACYlezcB8jKmFxvQANUtYPCsFwt_nM4awjU), Dez 2025)* _([GitHub repo](https://github.com/RicardoGuerra-97/Azure-Data-Fundamentals))_
 
