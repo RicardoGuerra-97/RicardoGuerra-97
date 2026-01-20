@@ -39,10 +39,10 @@ My focus is on optimizing internal operations and enabling data-driven decision-
 ## 🛠️ Technical Skills
 
 ### **Programming & Scripting**
-- SQL _([GitHub repo](https://github.com/RicardoGuerra-97/SQL))_
+- SQL ✅ *([Data Analyst Associate](https://credentials.databricks.com/dd811206-1ed0-44b8-ae9e-2aeb58277b49#acc.hUFrpAXI), Jan 2026)* _([GitHub repo](https://github.com/RicardoGuerra-97/SQL))_
 
 ### **Data Warehouse & Lakehouse**
-- Databrikcs _([GitHub repo](https://github.com/RicardoGuerra-97/Databricks))_
+- Databricks ✅ *([Data Analyst Associate](https://credentials.databricks.com/dd811206-1ed0-44b8-ae9e-2aeb58277b49#acc.hUFrpAXI), Jan 2026)* _([GitHub repo](https://github.com/RicardoGuerra-97/Databricks))_
 - Microsoft Fabric ✅ *([Microsoft DP-600](https://www.linkedin.com/in/ricardo-guerra-b073b815a/overlay/1765384059970/single-media-viewer/?profileId=ACoAACYlezcB8jKmFxvQANUtYPCsFwt_nM4awjU), Dez 2025)* _([GitHub repo](https://github.com/RicardoGuerra-97/Microsoft-Fabric))_
 - Azure Data Fundamentals ✅ *([Microsoft DP-900](https://www.linkedin.com/in/ricardo-guerra-b073b815a/overlay/1765366126898/single-media-viewer/?profileId=ACoAACYlezcB8jKmFxvQANUtYPCsFwt_nM4awjU), Dez 2025)* _([GitHub repo](https://github.com/RicardoGuerra-97/Azure-Data-Fundamentals))_
 
