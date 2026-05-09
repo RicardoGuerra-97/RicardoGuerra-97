@@ -1,7 +1,7 @@
 # 👋 Hi, I'm **Ricardo Guerra**
-### **Data Analyst**
+### **Data Analyst and Scientist**
 
-I'm a Data Analyst with a strong foundation in accounting, financial control, and performance management, now focused on using modern data tools to drive operational efficiency and data-driven decision-making.
+I'm a Data Analyst and Scientist with a strong foundation in accounting, financial control, and performance management, now focused on using modern data tools to drive operational efficiency and data-driven decision-making.
 
 I specialize in data visualization and transforming complex datasets into meaningful, actionable insights.  
 
@@ -40,6 +40,7 @@ My focus is on optimizing internal operations and enabling data-driven decision-
 
 ### **Programming & Scripting**
 - SQL ✅ *([Data Analyst Associate](https://credentials.databricks.com/dd811206-1ed0-44b8-ae9e-2aeb58277b49#acc.hUFrpAXI), Jan 2026)* _([GitHub repo](https://github.com/RicardoGuerra-97/SQL))_
+- Python (Fundamentals, Pandas, Matplotlib)
 
 ### **Data Warehouse & Lakehouse**
 - Databricks ✅ *([Data Analyst Associate](https://credentials.databricks.com/dd811206-1ed0-44b8-ae9e-2aeb58277b49#acc.hUFrpAXI), Jan 2026)* _([GitHub repo](https://github.com/RicardoGuerra-97/Databricks))_
